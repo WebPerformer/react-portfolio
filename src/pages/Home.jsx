@@ -73,7 +73,7 @@ function Home() {
           </div>
           <div className="right">
             <p className="text">I worked for 2 years at the City Hall of São Paulo in the IT area doing maintenance on hardware and assisting in other activities in the sector. I have been working on extracurricular projects such as: websites, software, UX/UI designs and Fullstack developments.</p>
-            <p className="text">If you want to follow the evolution and execution of my projects, access my GitHub link below: https://github.com/MystGabriel</p>
+            <p className="text">If you want to follow the evolution and execution of my projects, access my GitHub link below: https://github.com/WebPerformer</p>
             <p className="text">This site was made by me using good programming practices, if you want quality work like this, don't hesitate to get in touch.</p>
             <div className="social">
               <div className="title">FOLLOW ME</div>
