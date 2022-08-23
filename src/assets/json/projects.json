@@ -27,6 +27,13 @@
             "category": "Brand Identity / Web Design",
             "img": "https://i.imgur.com/etVAZAc.jpg",
             "link": "https://github.com/WebPerformer/next-webperformer"
+        },
+        {
+            "ïd": "4",
+            "name": "Stranger Things",
+            "category": "Brand Identity / Web Design",
+            "img": "https://imgur.com/KyQx9s3",
+            "link": "https://github.com/WebPerformer/react-stranger-things"
         }
     ]
 }
